@@ -4,7 +4,7 @@
   <version>1.7</version>
 
   <!-- Directe downloadlink naar je nieuwe installer -->
-  <url>https://github.com/USERNAME/DMx.0-updates/releases/download/v1.7/DequachimInstaller.exe</url>
+  <url>https://github.com/Simon7011/DMx.0-updates/releases/download/v1.7/DequachimInstaller.exe</url>
 
   <!-- Changelog tekst (mag HTML bevatten, maar simpel is veiliger) -->
   <changelog>
@@ -13,3 +13,4 @@
     - Nieuwe functies toegevoegd
   </changelog>
 </item>
+
