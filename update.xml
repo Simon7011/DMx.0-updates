@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
+  <!-- De nieuwe versie die je beschikbaar wilt maken -->
   <version>1.7</version>
-  <url>
-  https://github.com/Simon7011/DMx.0-updates/releases/download/v1.7/DequachimInstaller.exe
-  </url>
-  <changelog>Eerste publieke versie</changelog>
 
+  <!-- Directe downloadlink naar je nieuwe installer -->
+  <url>https://github.com/USERNAME/DMx.0-updates/releases/download/v1.7/DequachimInstaller.exe</url>
+
+  <!-- Changelog tekst (mag HTML bevatten, maar simpel is veiliger) -->
+  <changelog>
+    - Bug fixes
+    - Kleine verbeteringen
+    - Nieuwe functies toegevoegd
+  </changelog>
 </item>
-
